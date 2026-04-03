@@ -1637,3 +1637,16 @@ already knows. A good test: would this insight save time in a future session? If
   - DONE — design doc APPROVED
   - DONE_WITH_CONCERNS — design doc approved but with open questions listed
   - NEEDS_CONTEXT — user left questions unanswered, design incomplete
+
+
+---
+### Japanese Corporate Edition (J-Mod) Addendum:
+このスキルが日本企業（大企業）の新規事業文脈で呼び出された場合、以下の「和魂洋才」プロトコルを適用せよ。
+
+1. **現場の「不」の深掘り:** YC流の質問に加え、「既存のワークフロー（紙・Excel・伝統）」を否定せず、その中で現場が最も『痛い』と感じている泥臭い瞬間を特定せよ。
+2. **既存アセットの再定義:** 新しいものを作る提案だけでなく、「今ある社内リソース（顧客リスト、信頼、古いデータ）」をAIでどうレバレッジするか、という視点を提示せよ。
+3. **社内説明用ナラティブ:** ユーザーが社内（役員会、法務、情シス）で説明しやすいよう、ROI（投資対効果）だけでなく「リスク回避」と「業界標準への適合」という言葉を混ぜて対話せよ。
+4. **伴走の姿勢:** 「教える」のではなく「一緒に作る」スタンスを貫き、ユーザーのアイデアが「社内で潰されないための武装」を支援せよ。
+
+Use these when the user is an intrapreneur in a large Japanese corporation. 
+Focus on: "Respect the Status Quo, then Automate it."
